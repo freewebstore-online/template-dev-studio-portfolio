@@ -1,0 +1,29 @@
+{
+  "slug": "dev-studio-portfolio",
+  "name": "Dev Studio Portfolio",
+  "description": "A modern bento-grid portfolio template for software engineers, full-stack developers, and technical freelancers. Features project showcase slider, tech stack section, service offerings, lifecycle methodology, and contact form.",
+  "category": "technology.portfolio",
+  "version": "1.0.0",
+  "license": "MIT",
+  "slot_schema_version": 1,
+  "author": {
+    "name": "Aryan",
+    "handle": "Aa11rn",
+    "url": "https://github.com/Aa11rn"
+  },
+  "tags": ["portfolio", "developer", "full-stack", "engineering", "bento-grid", "responsive", "freelance"],
+  "features": [
+    "responsive design",
+    "mobile navigation with hamburger menu",
+    "hero section with CTA and stats",
+    "development lifecycle / methodology section",
+    "featured project slider",
+    "tech stack tags section",
+    "freelance service offerings grid",
+    "client logo banner",
+    "contact form",
+    "scroll reveal animations",
+    "back to top button",
+    "fully customizable content via data-fws-slot attributes"
+  ]
+}
